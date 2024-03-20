@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nepal National Men's Football Team - Player List</title>
+    <style>
+        /* CSS styling can be added here */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        main {
+            padding: 1rem;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nepal National Men's Football Team - Player List</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Player List</h2>
+            <ul>
+                <li>Kiran Kumar Limbu (Captain / Goalkeeper)</li>
+                <li>Rohit Chand Thakuri</li>
+                <li>Aananta Tamang</li>
+                <li>Chhiring Lama</li>
+                <li>Nishan Khadka</li> 
+                <li>Sanish Shrestha</li>
+                <li>Aric Bista</li>
+                <li>Lakin Limbu</li>
+                <li>Utsav Rai</li>
+                <li>Sudip Gurung</li>
+                <li>Ayush Ghalan</li>
+               <li>Manish Dangi</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
